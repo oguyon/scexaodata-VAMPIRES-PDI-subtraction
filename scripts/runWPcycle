@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+milk << EOF
+mload vampirespdi
+vamppdi.procWPcycle vamppdi.conf
+exitCLI
+EOF
